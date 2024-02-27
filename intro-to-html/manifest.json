@@ -1,0 +1,11 @@
+{
+    "name": "buttons",
+    "version": "1.0.0",
+    "description": "buttons file from html course",
+    "author": "numero uno",
+    "manifest_version": 3,
+    "action":{
+        "default_popup": "buttons.html",
+        "default_title": "Buttons"
+    }
+}
