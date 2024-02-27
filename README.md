@@ -1,9 +1,3 @@
 # webdevcourse1
 
-
-## test lingo
-
-### test lingo2
-
-
-this is simpler 
+Followed this course: [YouTube Course](https://www.youtube.com/watch?v=G3e-cpL7ofc)
